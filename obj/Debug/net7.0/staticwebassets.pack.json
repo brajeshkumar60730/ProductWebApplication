@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProductWebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProductWebApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430173138246.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430173138246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430174057107.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430174057107.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430175359930.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430175359930.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430175431105.webp",
+      "PackagePath": "staticwebassets\\Products\\20240430175431105.webp"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430175621162.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430175621162.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430175759202.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430175759202.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180012740.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430180012740.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180336388.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430180336388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180414512.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430180414512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180449430.webp",
+      "PackagePath": "staticwebassets\\Products\\20240430180449430.webp"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180512190.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430180512190.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180718482.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430180718482.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430180841639.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430180841639.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430181754147.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430181754147.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430181843443.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430181843443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430181929683.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430181929683.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182014855.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182014855.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182102384.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182102384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182209088.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182209088.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182255299.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182255299.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182319255.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182319255.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182404954.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182404954.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182629156.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182629156.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182726273.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182726273.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182810063.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182810063.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\20240430182902116.jpg",
+      "PackagePath": "staticwebassets\\Products\\20240430182902116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\41KuRShR97L._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\41KuRShR97L._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\512eNZ2fcRL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\512eNZ2fcRL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\51GGNToj7aL._AC_UL320_.jpg",
+      "PackagePath": "staticwebassets\\Products\\51GGNToj7aL._AC_UL320_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\51KL3aOZ0tL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\51KL3aOZ0tL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\618d5bS2lUL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\618d5bS2lUL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\61H76AyN6pL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\61H76AyN6pL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\61HjuZI+z2L._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\61HjuZI+z2L._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\61VuVU94RnL._AC_UY218_ (1).jpg",
+      "PackagePath": "staticwebassets\\Products\\61VuVU94RnL._AC_UY218_ (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\61VuVU94RnL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\61VuVU94RnL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\61nHCsKDZKL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\61nHCsKDZKL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\61t6LDfANZL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\61t6LDfANZL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\71657TiFeHL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\71657TiFeHL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\71ZqmiRNQjL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\71ZqmiRNQjL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\71juaFY2jXL._AC_UY218_ - Copy.jpg",
+      "PackagePath": "staticwebassets\\Products\\71juaFY2jXL._AC_UY218_ - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\71juaFY2jXL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\71juaFY2jXL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\71sspiqdfsL._SX679_ - Copy.jpg",
+      "PackagePath": "staticwebassets\\Products\\71sspiqdfsL._SX679_ - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\71sspiqdfsL._SX679_.jpg",
+      "PackagePath": "staticwebassets\\Products\\71sspiqdfsL._SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\818-GJ0W6uL._AC_UY218_.jpg",
+      "PackagePath": "staticwebassets\\Products\\818-GJ0W6uL._AC_UY218_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\Products\\Products.jpg",
+      "PackagePath": "staticwebassets\\Products\\Products.jpg"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\j2ml\\source\\repos\\console\\Logger\\BasicWebAPI\\ProductWebApplication\\ProductWebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProductWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProductWebApplication.props",
+      "PackagePath": "build\\ProductWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\ProductWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProductWebApplication.props",
+      "PackagePath": "buildTransitive\\ProductWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
